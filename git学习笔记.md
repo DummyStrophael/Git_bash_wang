@@ -17,7 +17,7 @@ git config --list
 - 提交到本地仓库：git commit -m "提交备注"
 - 查看提交日志: git log -oneline
 - 关联远程仓库：git remote add origin https://github.com/DummyStrophael/git_bash_wang.git
-- 查看远程地：git remote  -v
+- 查看远程地址：git remote  -v
 - 推送到远程仓库：git push -u origin main(-u绑定默认分支)
 - 拉取远程最新代码：git pull
 - 克隆别人完整仓库到本地：git clone https://github.com/DummyStrophael/git_bash_wang.git
